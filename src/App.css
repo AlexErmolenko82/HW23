@@ -2,16 +2,3 @@
   text-align: center;
 }
 
-p {
-  font-weight: 100;
-}
-
-.bold {
-  font-weight: bold;
-  color: darkblue;
-}
-
-.normal {
-  font-weight: normal;
-  color: black;
-}
